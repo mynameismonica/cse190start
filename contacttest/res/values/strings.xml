@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">contacttest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="random_contact">Random Contact</string>
+    <string name="select_contact">Select Contact</string>
+    <string name="title_activity_choose_contact">ChooseContactActivity</string>
+
+</resources>
